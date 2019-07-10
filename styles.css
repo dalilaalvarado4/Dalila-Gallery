@@ -1,0 +1,15 @@
+* {
+  margin: 5px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+h1 {
+  color: black;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+* {
+  margin: 15px;
+  padding: 2px;
+  box-sizing: border-box;
+}
